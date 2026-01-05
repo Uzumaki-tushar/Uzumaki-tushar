@@ -32,5 +32,6 @@ Hello! I'm Tushar Sourav, a passionate and creative Full Stack Web Developer �
 
 - 🌐 **Portfolio:** [Your Portfolio](https://your-portfolio-link.com)
 - 📞 **Phone:** +91 7004425077
-- ✉️ **Email:** [Your Email](mailto:your.email@example.com)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- ✉️ **Email:** [Your Email](mailto:your.tusharsourav01@gmail.com)
+- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/tushar-sourav-470b3526b/)
+
