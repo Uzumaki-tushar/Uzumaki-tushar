@@ -1,38 +1,45 @@
 # 👋 Hey, I'm Tushar Sourav
 
-##### 💻 Full-Stack Developer | 🎨 UI/UX & Motion Designer | 📱 Mobile & Web Enthusiast
+##### 💻 Backend Engineer | ☁️ Cloud & DevOps Enthusiast | 🤖 AI Automation Developer
 
-Hello! I'm Tushar Sourav, a passionate and creative Full Stack Web Developer 👨‍💻 with a strong foundation in building dynamic and responsive web applications. I love bringing ideas to life through code 💻 and constantly exploring new technologies to enhance user experiences. ✨
+Hello! I'm Tushar Sourav, a Software Developer focused on architecting high-performance backend systems, building robust cloud infrastructure, and developing intelligent AI/ML pipelines[cite: 3]. I love translating complex algorithmic problems into highly scalable, clean production code[cite: 3].
+
+---
 
 ## About Me 🌟
 
-- ✨ Passionate about building scalable applications and beautiful user experiences.
-- 🎯 Blending code + creativity with skills in frontend, backend, mobile, and design.
-- 🏢 Currently working at LG, focusing on modern web solutions and exploring AI (LangChain) & automation.
-- 💡 Recently, my interests have gravitated towards Spring Boot for robust backend development.
+* 🏗️ **Scale-Focused**: Passionate about building high-concurrency, low-latency RESTful architectures and real-time distributed applications[cite: 3].
+* ☁️ **Cloud Native**: Experienced in containerized environments (Docker) and building production-grade infrastructure on AWS[cite: 3].
+* 🏢 **Industry Experience**: Software Developer Intern at **LG Soft India**, building enterprise automation systems and production-level LLM semantic mapping pipelines[cite: 3].
+* ☕ **Ecosystem Deep-Dive**: Proficient in the Java ecosystem (Spring Boot, Multithreading, Microservices) and high-throughput Python frameworks like FastAPI[cite: 3].
+
+---
 
 ## What I Do 💡
 
-- ✅ Build cross-platform apps with delightful animations 📱
-- ✅ Design and develop scalable, service-based web platforms 🌐
-- ✅ Integrate AI-driven solutions into everyday apps 🤖
-- ✅ Craft pixel-perfect UI/UX with smooth motion design ✨
-- ✅ Experiment with AR & computer vision to solve real problems 👁️‍🗨️
+* ✅ **Architect Distributed Backends**: Design scalable systems utilizing modern microservices design patterns, JPA, and optimal caching strategies[cite: 3].
+* ✅ **Implement Cloud Infrastructure**: Package services via Docker and deploy load-balanced architectures using AWS ECS, ECR, and Application Load Balancers[cite: 3].
+* ✅ **Engineer AI Automation**: Integrate open-source and proprietary LLM orchestration models (Ollama, OpenAI) to eliminate human errors in automated business logic[cite: 3].
+* ✅ **Streamline Workflows**: Automate software testing lifecycles (JUnit, Mockito) and script asynchronous system-level monitors[cite: 3].
+
+---
 
 ### Skills 🛠️
 
-| Category      | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| :------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Frontend**  | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Backend**   | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) 🌐                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white) 🗄️                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) |
+| **Databases & Cache**| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) |
+| **Java Ecosystem** | `Collections Framework` `Multithreading` `Concurrency` `Hibernate` `JPA` `Maven` `Microservices` `Design Patterns` |
+| **Core Concepts** | `Data Structures & Algorithms (DSA)` `System Design` `RESTful APIs` `DBMS` `WebSockets` `JWT/OAuth2` `JUnit` |
+
+---
 
 ## Let's Connect 🤝
 
-- 🌐 **Portfolio:** [Your Portfolio](https://portfolio-weld-two-52.vercel.app/)
-- 📞 **Phone:** +91 7004425077
-- ✉️ **Email:** [Your Email](mailto:your.tusharsourav01@gmail.com)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/tushar-sourav-470b3526b/)
-
-
+* 🌐 **Portfolio:** [portfolio-weld-two-52.vercel.app](https://portfolio-weld-two-52.vercel.app/)[cite: 3]
+* 💼 **LinkedIn:** [linkedin.com/in/tushar-sourav-470b3526b](https://www.linkedin.com/in/tushar-sourav-470b3526b/)[cite: 3]
+* 🐙 **GitHub:** [github.com/Uzumaki-tushar](https://github.com/Uzumaki-tushar)[cite: 3]
+* ✉️ **Email:** tusharsourav01@gmail.com[cite: 3]
