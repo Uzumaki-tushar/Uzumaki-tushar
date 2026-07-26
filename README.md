@@ -39,7 +39,7 @@ Hello! I'm Tushar Sourav, a Software Developer focused on architecting high-perf
 
 ## Let's Connect 🤝
 
-* 🌐 **Portfolio:** [portfolio-weld-two-52.vercel.app](https://portfolio-weld-two-52.vercel.app/)[cite: 3]
-* 💼 **LinkedIn:** [linkedin.com/in/tushar-sourav-470b3526b](https://www.linkedin.com/in/tushar-sourav-470b3526b/)[cite: 3]
-* 🐙 **GitHub:** [github.com/Uzumaki-tushar](https://github.com/Uzumaki-tushar)[cite: 3]
-* ✉️ **Email:** tusharsourav01@gmail.com[cite: 3]
+* 🌐 **Portfolio:** [portfolio-weld-two-52.vercel.app](https://portfolio2-nw60.onrender.com/)
+* 💼 **LinkedIn:** [linkedin.com/in/tushar-sourav-470b3526b](https://www.linkedin.com/in/tushar-sourav-470b3526b/)
+* 🐙 **GitHub:** [github.com/Uzumaki-tushar](https://github.com/Uzumaki-tushar)
+* ✉️ **Email:** tusharsourav01@gmail.com
