@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Tushar Sourav
 
-##### 💻 Software Engineer | ⚙️ Backend & Full-Stack | 🤖 AI / LLM Automation | ☁️ Cloud & DevOps
+#####  | ⚙️ Backend & Full-Stack | 🤖 AI / LLM Automation |
 
 Software Engineer with hands-on experience in backend architecture, full-stack systems, and engineering automation. I optimize data workflows, build secure role-based access architectures, and deploy scalable, containerized, cloud-native applications, and I like turning unstructured data into reliable, low-hallucination AI features.
 
@@ -36,7 +36,6 @@ Software Engineer with hands-on experience in backend architecture, full-stack s
 | **Personal AI Agent** | n8n, OpenAI GPT-4o, Streamlit, Webhooks, Google APIs | Chat-driven agent that runs Gmail, Calendar, Tasks, Docs, and Sheets actions from plain-language commands | [GitHub](https://github.com/Uzumaki-tushar/Personal_Agent) · [Demo](https://personalagent-cwkyqmbpjn6xqgqncthuyi.streamlit.app/) |
 | **Auto-Git-Commit** | FastAPI, Python, asyncio, Ollama, Git | Watches the file system in real time and uses local LLMs to write context-aware commit messages | [GitHub](https://github.com/Uzumaki-tushar/auto-commit-bot) |
 | **FinDash** | React, Vite, Tailwind CSS, Zustand, Recharts | Finance dashboard with Admin/Viewer RBAC and interactive charts | [GitHub](https://github.com/Uzumaki-tushar/FinDash) · [Demo](https://fin-dash-lime.vercel.app/) |
-| **Django CRM** | Django, MySQL, PostgreSQL, Gunicorn | Authenticated customer-records CRUD with env-driven MySQL/PostgreSQL setups | [GitHub](https://github.com/Uzumaki-tushar/Django_CRM) · [Demo](https://django-crm-oui6.onrender.com) |
 | **Collegium** | Node.js, Express, MongoDB, EJS, JWT, Razorpay | MVC web platform with bcrypt/JWT auth, Razorpay, Multer uploads, and Nodemailer | [GitHub](https://github.com/Uzumaki-tushar/collegium) · [Demo](https://st-backend-project.vercel.app) |
 
 ---
@@ -45,8 +44,8 @@ Software Engineer with hands-on experience in backend architecture, full-stack s
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) `Zustand` `Recharts` `Monaco Editor` |
 | **AI / LLM** | `LangGraph` `Agentic RAG` `OpenAI API` `Ollama` `Groq API` `FastEmbed` `Prompt Engineering` `Semantic Search` `n8n AI Agents` |
 | **Databases & Cache** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) `Qdrant` |
@@ -58,7 +57,7 @@ Software Engineer with hands-on experience in backend architecture, full-stack s
 
 ## Let's Connect 🤝
 
-* 🌐 **Portfolio:** [portfolio-weld-two-52.vercel.app](https://portfolio-weld-two-52.vercel.app/)
+* 🌐 **Portfolio:** [portfolio-weld-two-52.vercel.app](https://portfolio2-nw60.onrender.com/)
 * 💼 **LinkedIn:** [linkedin.com/in/tushar-sourav-470b3526b](https://www.linkedin.com/in/tushar-sourav-470b3526b/)
 * 🐙 **GitHub:** [github.com/Uzumaki-tushar](https://github.com/Uzumaki-tushar)
 * ✉️ **Email:** tusharsourav01@gmail.com
